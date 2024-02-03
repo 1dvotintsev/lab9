@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab9", "lab9\lab9.csproj", "{D652750E-05A2-4DB7-B3F5-EF7CB7E13E91}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPockemon", "TestPockemon\TestPockemon.csproj", "{74015073-6D1B-4C3C-B28B-9D6698AA5041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D652750E-05A2-4DB7-B3F5-EF7CB7E13E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D652750E-05A2-4DB7-B3F5-EF7CB7E13E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D652750E-05A2-4DB7-B3F5-EF7CB7E13E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D652750E-05A2-4DB7-B3F5-EF7CB7E13E91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74015073-6D1B-4C3C-B28B-9D6698AA5041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74015073-6D1B-4C3C-B28B-9D6698AA5041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74015073-6D1B-4C3C-B28B-9D6698AA5041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74015073-6D1B-4C3C-B28B-9D6698AA5041}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6296036-B03C-4384-8CD0-1260B1AD3515}
+	EndGlobalSection
+EndGlobal
